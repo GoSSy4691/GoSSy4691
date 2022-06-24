@@ -9,3 +9,7 @@
 ## My Codewars Stats:
 
 [![codewars](https://www.codewars.com/users/GoSSy4691/badges/large)](https://www.codewars.com/users/GoSSy4691)
+
+<h2>Gitlab profile:
+
+[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt='gitlab' height='60'>](https://gitlab.com/GoSSy4691)
